@@ -5,3 +5,4 @@ This page has been made by the help of  -
 # CSS3
 # JavaScript
 It can be used by first Year computer science students and school students.
+Note - It has NOT been optimized for mobile devices. 
